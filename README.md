@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ANKIT
 - From New Delhi, INDIA
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Analysis and Visualization projects
-- 📫 How to reach me on linkedIN: https://www.linkedin.com/in/ankitkind-/
+- 👀 Interested in Data science
+- 🌱 Currently learning Data Science
+- 💞️ looking to collaborate on Analysis and Visualization projects
+- 📫 To reach me on linkedIN: https://www.linkedin.com/in/ankitkind-/
 - My Personal Website: https://www.ankit-theanalyst.co/
 - My tableau Profile: https://public.tableau.com/app/profile/ankit.kumar1503
 
