@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANKIT
 - From New Delhi, INDIA
-- 👀 Interested in Data science
+- 👀 Interested in Data science & Startups
 - 🌱 Currently learning Data Science
 - 💞️ looking to collaborate on Analysis and Visualization projects
 - 📫 To reach me on linkedIN: https://www.linkedin.com/in/ankitkind-/
